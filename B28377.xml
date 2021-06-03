@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Princesses Powder.</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28377</idno><idno type="EEBO-CITATION">99888598</idno>
+  <idno type="VID">195824</idno>
+  <idno type="EEBO-PROQUEST">2248547279</idno>
+  
+            <idno type="STC">Wing P3493B</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[19]</idno>
+            <idno type="STC">ESTC R231226</idno>
+            <idno type="PROQUEST">ocm99888598</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888598e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195824)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Princesses Powder.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) :   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Beauty, Personal --  Early works to 1800.</term>
+               <term type="topical_term">Cosmetics --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Cosmetics --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert">
+            <pb facs="tcp:195824:1"/>
+            <head>Princesses Powder.</head>
+            <p>IT is with just Reason that this Powder has the Name of <hi>Princesses Powder,</hi> since four Princesses whose Beauty is so much talked of in <hi>Europe,</hi> are served with it, with so great Success, that by means of it, they have preserved their Skin, and their Beauty with an Air of Youth, till Seventy Years of Age. Madam <hi>de Montespan</hi> with whom the King of <hi>France</hi> has been so much in Love, very well knew, by this little Artifice, how to please that Prince, who has made her Beauty famous over all the habitable Earth; though naturally Madam <hi>de Montespan</hi> has no fine nor de<g ref="char:EOLhyphen"/>licate Skin, but by the means of this Powder, which she has used all her life; she has preserved the fineness and Delicateness of her Skin so, that she does not appear above eighteen or twenty years of Age, though she be above fifty five.</p>
+            <p>But as Mr. <hi>Ranet</hi> Apothecary and Chymist at <hi>Paris</hi> is dead, and that he was the only man that knew the secret of Composing this Powder, he has left by writing to <hi>Peter Ranet</hi> his Son, the Secret to make the same. And as it is commonly known by experience, that this Powder produces extraordinary Effects, the said <hi>Mr. Ranet</hi> has been requested by several persons to send it into Foreign Countrys, and particu<g ref="char:EOLhyphen"/>larly hither into <hi>England,</hi> where the Climate is extreamly Harsh; and this Powder must have extraordinary Effects, as it has already had to several persons that have had very ill looks, that have recovered Lustre and their Beauty, by means of this Powder. In a word, it has the Vertue to take away all Redness, all Pimples and Frec<g ref="char:EOLhyphen"/>les, and generally all ill things that occur in the Face, making the Skin as fine, smooth, and Dilicate, as Sattin; As you may experience, by putting upon your hand a little of that enclosed in the Pacquet; though a little Quantity does not produce the same Effect as a reasonable Quantity. There will be put to all the Bills that shall be distributed, and to all the Pacquets of Pow<g ref="char:EOLhyphen"/>der that shall be sold, the Seal of him that made them; To the end, to pre<g ref="char:EOLhyphen"/>vent the Cheats that may happen, by persons pretending in a little time to sell this Powder, and pretending to have found out this Secret of making it.</p>
+            <p>Any one that has a mind to have this Powder, may have it at,</p>
+            <list>
+               <item>At Mrs. <hi>Joanna Nehellen,</hi> near the <hi>Blackamoors-head</hi> in <hi>German-Street,</hi> over against the Church.</item>
+               <item>At Mrs. <hi>Frances Reeves,</hi> in <hi>Bedford-Court</hi> in <hi>Common-Garden, Millin<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er.</hi>
+               </item>
+               <item>At Mrs. <hi>Lowes,</hi> at the <hi>Sign</hi> of the <hi>Hood and Scarf</hi> in the <hi>Poul<g ref="char:EOLhyphen"/>try.</hi>
+               </item>
+               <item>At Mrs. <hi>Almonds</hi> at the Sign of the <hi>Ʋnicorn</hi> in <hi>Fleet-street,</hi> near <hi>Fleet-Bridge.</hi>
+               </item>
+               <item>At Mrs. <hi>Elizabeth Jacksons</hi> over against the <hi>Ship,</hi> near the <hi>May-pole</hi> in the <hi>Strand.</hi>
+               </item>
+            </list>
+            <p>The price of the Pacquets are from Six-pence, to five Shillings.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
